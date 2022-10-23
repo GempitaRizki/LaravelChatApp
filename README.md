@@ -40,3 +40,7 @@ This application took me around three days to finish. Starting on October 21, 20
 <b>You can look at the config file if necessary.#</b>
  
 <H2> Thank you ^^, </H2>
+
+
+![alt text](https://i.ibb.co/hFW0wKY/Screenshot-20221024-020651.png)
+
