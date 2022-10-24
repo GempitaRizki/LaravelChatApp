@@ -43,4 +43,11 @@ This application took me around three days to finish. Starting on October 21, 20
 
 
 ![alt text](https://i.ibb.co/hFW0wKY/Screenshot-20221024-020651.png)
+<br>
+
+![alt text](https://i.ibb.co/CtLKFJH/Screenshot-20221024-170745.png)
+<br>
+
+![alt text](https://i.ibb.co/jZf60kv/Screenshot-20221024-170727.png)
+
 
